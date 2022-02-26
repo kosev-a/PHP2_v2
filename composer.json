@@ -1,0 +1,12 @@
+{
+    "name": "alehandro/1",
+    "require-dev": {
+        "fzaninotto/faker": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alehandro\\1\\": "src/"
+        }
+    },
+    "require": {}
+}
